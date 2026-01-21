@@ -102,8 +102,6 @@ BookSlot is a full-stack booking application developed using the MERN stack. The
 
 ## About Me
 
-I am Abhishek Sharma a final year student at IIIT Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech) degree in Information Technology. Do checkout my LinkedIn and connect with me.
-
 ### Connect with me :
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek751982@gmail.com)
